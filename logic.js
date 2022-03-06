@@ -10,3 +10,4 @@
     });
 })(jQuery);
 // End of navbar logic
+
