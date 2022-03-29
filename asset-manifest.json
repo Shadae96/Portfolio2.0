@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Portfolio2.0/static/css/main.0f649f5f.css",
+    "main.js": "/Portfolio2.0/static/js/main.7d1452a3.js",
+    "static/media/shadae.jpeg": "/Portfolio2.0/static/media/shadae.fbafc8b5131e4340ace0.jpeg",
+    "static/media/GuardiansOfTheCode.png": "/Portfolio2.0/static/media/GuardiansOfTheCode.6ef93065ea0145030338.png",
+    "static/media/developer.jpg": "/Portfolio2.0/static/media/developer.23e159bedb27f3e8dcb6.jpg",
+    "static/media/CodeQuiz.png": "/Portfolio2.0/static/media/CodeQuiz.977a9d38a91b246e7593.png",
+    "static/media/RestfulFitness.png": "/Portfolio2.0/static/media/RestfulFitness.55e1478e91e561039197.png",
+    "static/media/ShadaeBrownResume.pdf": "/Portfolio2.0/static/media/ShadaeBrownResume.70774df154055343492b.pdf",
+    "static/media/PasswordGenerator.png": "/Portfolio2.0/static/media/PasswordGenerator.aa25cbf89939def02f6b.png",
+    "index.html": "/Portfolio2.0/index.html",
+    "main.0f649f5f.css.map": "/Portfolio2.0/static/css/main.0f649f5f.css.map",
+    "main.7d1452a3.js.map": "/Portfolio2.0/static/js/main.7d1452a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f649f5f.css",
+    "static/js/main.7d1452a3.js"
+  ]
+}
