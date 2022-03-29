@@ -35,9 +35,9 @@ function NavBar() {
       className={navColour ? "sticky" : "navbar"}
     >
       <Container>
-        <Navbar.Brand href="http://www.logicstime.com/" target="_blank">
+        {/* <Navbar.Brand href="http://www.logicstime.com/" target="_blank">
           <MdDeveloperMode style={{ marginBottom: "2px" }} /> Logicstime.com
-        </Navbar.Brand>
+        </Navbar.Brand> */}
         <Navbar.Toggle
           aria-controls="responsive-navbar-nav"
           onClick={() => {
@@ -48,6 +48,9 @@ function NavBar() {
           <span></span>
           <span></span>
         </Navbar.Toggle>
+
+
+
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="ml-auto" defaultActiveKey="#home">
             <Nav.Item>
